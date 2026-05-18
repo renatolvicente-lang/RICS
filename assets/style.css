@@ -220,6 +220,14 @@
     margin: 10px;
 }
 
+.icon_usuario img{
+    width: 80%;
+}
+
+.icon_usuario{
+    width: 30%;
+}
+
 .lista_func{
     border-radius: 15px;
     margin-right: 50px;
