@@ -36,3 +36,7 @@
 <p>Ele serve como um <b>laboratório local</b>, no qual é possivel experimentar novos códigos, validar plugins, criar bancos de dados e realizar simulações de produção sem custos.</p>
 
 <p>Assim, antes de colocar um projeto o projeto no ar, o desenvolvedor garante que tudo funcione corretamente em um ambiente seguro e controlado.</p>
+
+<h1>Ultilização em aplicações PHP</h1>
+
+<p>O <b>XAMPP</b> é um pacote de software livre que cria um servidor web local completo na sua máquina. Ele é indispensável no desenvolvimento PHP pois instala de forma automatizada e integrada o interpretador PHP, o servidor Apache e o banco de dados MySQL/MariaDB</p>
