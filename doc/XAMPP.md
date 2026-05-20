@@ -23,6 +23,16 @@
 
 <p>O <b>XAMPP</b> não é só Apache, PHP e MySQL/Mariadb. Ele tem uma série de outras ferramentas adicionais.</p>
 
-<p>Um Exemplo é o <p>phpMyAdmin</p>, amplamente usado para gerenciar BDs de forma grafica, sem necessidade de comando SQL complexos.</p>
+<p>Um Exemplo é o <b>phpMyAdmin</b>, amplamente usado para gerenciar BDs de forma grafica, sem necessidade de comando SQL complexos.</p>
 
-<p>Além dele, o pacote traz o <b>Mercury Mail Server</b>, ideal para testar o envio de e-mails em ambientes locais, o <B>FileZilla FTP Server</B>, que permite simular transferências de arquivos por FTP, e até Tomcat, util para aplicações em Java</p>
+<p>Além dele, o pacote traz o <b>Mercury Mail Server</b>, ideal para testar o envio de e-mails em ambientes locais, o <B>FileZilla FTP Server</B>, que permite simular transferências de arquivos por FTP, e até <b>Tomcat</b>, util para aplicações em Java</p>
+
+<h2>Propósito principal</h2>
+
+<p>O proposito principal do <b>XAMPP</b> é oferecer de uma maneira <b>rápida, prática e gratuita</b> de criar um servidor local completo.</p>
+
+<p>Onde ao invez de instalar separadamete cada ferramenta  e configura-las separadamente o <b>XAMPP</b> entrega tudo ja em um unico pacote, pronto para ser utilizado.</p>
+
+<p>Ele serve como um <b>laboratório local</b>, no qual é possivel experimentar novos códigos, validar plugins, criar bancos de dados e realizar simulações de produção sem custos.</p>
+
+<p>Assim, antes de colocar um projeto o projeto no ar, o desenvolvedor garante que tudo funcione corretamente em um ambiente seguro e controlado.</p>
