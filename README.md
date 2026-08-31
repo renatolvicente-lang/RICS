@@ -4,12 +4,30 @@
 
 ## Descrição
 
-<img src="assets/images/RAILLIFE red.jpg" width="500" >
+O RAILLIFE é um projeto Ferroramas para gerenciamento ferroviário, com sistema CRUD para rastreamento de trens e sensores em um banco de dados relacional. A metodologia utilizada neste projeto será a Espiral.
 
-Nesta primeira etapa da Situação de Aprendizagem Ferrorama, os alunos deverão iniciar a organização do projeto em equipe, estabelecendo as bases para o desenvolvimento do sistema. Cada equipe deverá criar um repositório (por exemplo, no GitHub ou similar), garantindo que todos os integrantes estejam devidamente vinculados e com acesso ao projeto. O repositório deve conter um arquivo README bem estruturado, apresentando a proposta do sistema, os objetivos do projeto, a identificação dos membros da equipe e uma breve descrição das funcionalidades previstas. Além disso, os alunos deverão definir e documentar a organização do projeto, incluindo a estrutura de pastas, padrão de nomenclatura e divisão inicial de responsabilidades entre os integrantes. Como parte prática do desenvolvimento, a equipe deverá iniciar a construção da interface do sistema, criando a tela de login e a tela de cadastro de usuários, utilizando boas práticas de organização de código e, preferencialmente, frameworks de apoio como Bootstrap.
+### O que já está feito
 
-Complementando a atividade, o repositório deverá conter:
+Teoricamente, nada. Praticamente, umas 3 ou 4 telas estáticas e umas pesquisas em Markdown.
 
-- Um estudo elaborado pela equipe sobre a identidade visual do sistema (cores, tipografia, estilo, referências visuais e proposta de layout);
-- Espera-se que a equipe tenha um repositório organizado, documentado e com os primeiros elementos visuais e estruturais do sistema já definidos.
-- Ao final, devem entregar tabém uma pesquisa sobre o conceito de CRUD em PHP, explicando suas operações (Create, Read, Update, Delete) e como elas serão aplicadas no contexto do projeto.
+### O que está em desenvolvimento
+
+> (!) FENG: Default string error.
+
+### O que precisa ser feito
+
+- Melhorar o Mockup;
+- Criar o script do banco de dados;
+- Criar as telas e revisar as já existentes;
+
+## Ferramentas Utilizadas
+
+- XAMPP
+- MySQL Workbench
+- VSCode
+- Git
+
+## Padrão de Organização
+
+- Cada membro da equipe ficará responsável por uma ou mais funções, seja em prototipação, requisitos, codificação e/ou testes de sistema. Essa responsabilidade será rastreada por meio do sistema de Kanban do Github.
+- Na codificação, os responsáveis criarão o site por meio de comandos SQL, componentes PHP e scripts em JS.
